@@ -1,5 +1,5 @@
 # Fake Visitor Counter
-Fake Counter is a simple Django app for displaying a random number based on the time of day.
+[![Downloads](https://pepy.tech/badge/fake-count)](https://pepy.tech/project/fake-count)<br>Fake Counter is a simple Django app for displaying a random number based on the time of day.
 ### Quick start
 * Install:<br> ```pip install django-fake-counter-0.1.tar.gz```<br>or<br>```pip install fake-count```
 * Add ```fake_count``` to your **INSTALLED_APPS** setting like this:<br>
